@@ -1,0 +1,69 @@
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\bin\Debug\Problème scientifique - Forms.exe.config
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\bin\Debug\Problème scientifique - Forms.exe
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\bin\Debug\Problème scientifique - Forms.pdb
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.csproj.AssemblyReference.cache
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.MainForm.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Properties.Resources.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.csproj.GenerateResource.cache
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.csproj.CoreCompileInputs.cache
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.exe
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.pdb
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormFiltres.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormHistogramme.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormQR.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormStenographie.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormFractale.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormEditionImage.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormInnovation.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\bin\Debug\Problème scientifique - Image.exe
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\bin\Debug\Problème scientifique - Image.pdb
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\bin\Debug\Problème scientifique - Image.exe.config
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.csproj.CopyComplete
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\bin\Debug\Problème scientifique - Forms.exe.config
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\bin\Debug\Problème scientifique - Forms.exe
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\bin\Debug\Problème scientifique - Forms.pdb
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\bin\Debug\Problème scientifique - Image.exe
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\bin\Debug\Problème scientifique - Image.pdb
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\bin\Debug\Problème scientifique - Image.exe.config
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.csproj.AssemblyReference.cache
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormEditionImage.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormFiltres.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormFractale.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormHistogramme.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormInnovation.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormQR.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormStenographie.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.MainForm.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème_scientifique___Forms.Properties.Resources.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.csproj.GenerateResource.cache
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.csproj.CoreCompileInputs.cache
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.csproj.CopyComplete
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.exe
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme scientifique - EL AYOUBI Hilal DJEBAR Adrien\Problème scientifique - Forms\obj\Debug\Problème scientifique - Forms.pdb
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\bin\Debug\Problème scientifique - Forms.exe.config
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\bin\Debug\Problème scientifique - Forms.exe
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\bin\Debug\Problème scientifique - Forms.pdb
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\bin\Debug\Problème scientifique - Image.exe
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\bin\Debug\Problème scientifique - Image.pdb
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\bin\Debug\Problème scientifique - Image.exe.config
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème scientifique - Forms.csproj.AssemblyReference.cache
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème scientifique - Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormEditionImage.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormFiltres.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormFractale.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormHistogramme.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormInnovation.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormQR.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème_scientifique___Forms.Forms.FormStenographie.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème_scientifique___Forms.MainForm.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème_scientifique___Forms.Properties.Resources.resources
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème scientifique - Forms.csproj.GenerateResource.cache
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème scientifique - Forms.csproj.CoreCompileInputs.cache
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème scientifique - Forms.csproj.CopyComplete
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème scientifique - Forms.exe
+C:\Users\cryte\Desktop\All\Cours\ESILV\Année 2\Semestre 2\Informatique\Probleme_scientifique_EL AYOUBI_Hilal_DJEBAR Adrien\Probleme_scientifique_Forms\obj\Debug\Problème scientifique - Forms.pdb
+C:\Users\hilal\Desktop\Projects\MyProjects\Uni\ImageEdits\Probleme_scientifique_Forms\obj\Debug\Problème scientifique - Forms.csproj.AssemblyReference.cache
+C:\Users\hilal\Desktop\Projects\MyProjects\Uni\ImageEdits\Probleme_scientifique_Forms\obj\Debug\Problème scientifique - Forms.exe
+C:\Users\hilal\Desktop\Projects\MyProjects\Uni\ImageEdits\Probleme_scientifique_Forms\obj\Debug\Problème scientifique - Forms.pdb

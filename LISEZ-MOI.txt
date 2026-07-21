@@ -1,0 +1,5 @@
+Notre .sln ce situe dans le dossier "Probleme_scientifique_Image"
+Une fois ouvert, il y aura trois projets : "Probleme_scientifique_Forms"; "Probleme_scientifique_Image"; "Probleme_scientifique_Test_Unitaire"
+le projet "Probleme_scientifique_Image" contient tous les codes du projet nécessaire au bon fonctionnement sur "Probleme_scientifique_Forms".
+Afin d'avoir l'interface graphique, il faut lancer non pas "Probleme_scientifique_Image" mais "Probleme_scientifique_Forms" (à gauche de la flèche de démarrage, cliquer sur le menu déroulant
+et sélectionner "Probleme_scientifique_Forms).
